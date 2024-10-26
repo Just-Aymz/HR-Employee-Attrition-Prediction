@@ -19,7 +19,7 @@ The Jupyter Notebook used to inspect and clean the data for this analysis can be
 
 The Jupyter Notebook regarding various business questions and visualizations can be found here [link]().
 
-An interactive Power BI dashboard used to report and explore sales trends can be found here [link]().
+An interactive Power BI dashboard used to report and explore sales trends can be found here [link](https://app.powerbi.com/view?r=eyJrIjoiMzk1YjI0NTUtMTFjZi00MzRhLThkOGMtOGZkMDFiMGU1OWQxIiwidCI6IjVjMjAwZWZhLTZiZDAtNDVkZi05ZDMxLTg3MTgxZjY0NzhiYyJ9&embedImagePlaceholder=true).
 
 # Data Structure & Initial Checks
 The datacard describiing this dataset can be found at [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data) A short summary of the features is described below:
