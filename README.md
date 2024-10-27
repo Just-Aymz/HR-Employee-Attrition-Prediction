@@ -93,6 +93,7 @@ The monthly income of early-career employees is well below that of the organisat
 ### Total Attrition per Job Level
 Based on the barplot, we can see that job roles in job level 1 have the worst retention rate. This further reiterates the inference that early-career professionals are the group of employees most likely to churn. This can be seen with how all he job roles of the early-career professionals are level 1 and level 2 job levels. 
 
+![output](https://github.com/user-attachments/assets/84b37c7c-a96b-472c-9ddf-a0b8090cf909)
 
-
+The count of job level per employee cluster can be found below
 
