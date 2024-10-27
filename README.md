@@ -2,7 +2,7 @@
 
 This project aims to analyze and predict employee attrition using a fictional dataset created by IBM data scientists. This dataset contains various features that may influence employee turnover, such as job roles, monthly income, education, and distance from home. By conducting exploratory data analysis (EDA), we aim to uncover key factors contributing to attrition, including insights like job role distribution and how distance from home correlates with attrition.
 
-After the data cleaning process, which involves handling missing values, outliers, and inconsistent data entries, we proceed with feature engineering and visualization to better understand the dataset. The ultimate objective is to build and evaluate a predictive model using classification algorithms to determine whether an employee is likely to leave the company. HR teams can leverage this to create targeted retention strategies and improve employee satisfaction.
+After the data cleaning process, which involves handling missing values, outliers, and inconsistent data entries, we proceed with feature engineering and visualization to better understand the dataset. The ultimate objective is to build and evaluate a predictive model using classification algorithms to determine whether an employee will likely leave the company. HR teams can leverage this to create targeted retention strategies and improve employee satisfaction.
 
 # Key Insights
 * Top Influencers of Attrition:
@@ -27,9 +27,7 @@ After the data cleaning process, which involves handling missing values, outlier
 * **Overtime and Attrition Impact**:
   * Overtime work is consistent across clusters, with only **4.5%** rating their work-life balance **poorly**. This indicates that attrition is driven by a combination of factors, where financial compensation alongside overtime plays a significant role.
 
-The Jupyter Notebook used to inspect and clean the data for this analysis can be found here [link]().
-
-The Jupyter Notebook regarding various business questions and visualizations can be found here [link]().
+The Jupyter Notebook used to inspect and clean the data for this analysis and EDA can be found here [link](https://github.com/Just-Aymz/HR-Employee-Attrition-Prediction/blob/main/Attrition_Report.ipynb).
 
 An interactive Power BI dashboard used to report and explore sales trends can be found here [link](https://app.powerbi.com/view?r=eyJrIjoiMzk1YjI0NTUtMTFjZi00MzRhLThkOGMtOGZkMDFiMGU1OWQxIiwidCI6IjVjMjAwZWZhLTZiZDAtNDVkZi05ZDMxLTg3MTgxZjY0NzhiYyJ9&embedImagePlaceholder=true).
 
