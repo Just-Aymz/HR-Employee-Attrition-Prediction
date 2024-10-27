@@ -91,9 +91,24 @@ The monthly income of early-career employees is well below that of the organisat
 ![output](https://github.com/user-attachments/assets/cab0c2dc-d033-47e2-bd66-e911b80c14d8)
 
 ### Total Attrition per Job Level
-Based on the barplot, we can see that job roles in job level 1 have the worst retention rate. This further reiterates the inference that early-career professionals are the group of employees most likely to churn. This can be seen with how all he job roles of the early-career professionals are level 1 and level 2 job levels. 
+Based on the barplot, we can see that job roles in job level 1 have the worst retention rate. This further reiterates the inference that early-career professionals are the group of employees most likely to churn. This can be seen in how all the job roles of the early-career professionals are level 1 and level 2 job levels. 
 
 ![output](https://github.com/user-attachments/assets/84b37c7c-a96b-472c-9ddf-a0b8090cf909)
 
-The count of job level per employee cluster can be found below
+![output](https://github.com/user-attachments/assets/d3ea4f02-5ae2-4f27-9f78-8ce0d9245acf)
 
+# Recommendations
+**Increase Compensation for Early-Career Professionals**: 
+Adjust pay for early-career roles to be closer to the organisational average, addressing financial disparity and enhancing retention in this key segment.
+
+**Develop Career Progression Pathways**: 
+Establish clear development tracks, especially for entry-level roles, to fulfill employees' growth aspirations and improve engagement.
+
+**Engagement Programmes for Younger Employees**: 
+Introduce mentorship and career coaching tailored to younger talent, addressing their unique needs and improving satisfaction.
+
+**Supportive Work-Life Balance Initiatives**: 
+Enhance wellness and flexible working options, providing a balanced environment that mitigates attrition even among those working overtime.
+
+**Adjust Entry-Level Compensation**: 
+Address disparities in pay for lower job levels to boost satisfaction and engagement, reducing turnover at the organisation's entry points.
