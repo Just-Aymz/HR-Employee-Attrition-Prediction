@@ -78,3 +78,16 @@ The datacard describiing this dataset can be found at [Kaggle](https://www.kaggl
 The analysis identifies key drivers of employee attrition, with compensation, career stage, and job level emerging as critical factors. Early-career professionals and entry-level employees show the highest churn rates, driven by lower earnings and limited progression opportunities. Notably, younger employees, especially those in early-career clusters, exhibit a strong tendency toward attrition, with those aged around 30 earning well below the organisational average.
 
 Additionally, while overtime rates are consistent across clusters, their impact on attrition varies based on financial compensation, underscoring the importance of aligning work-life balance initiatives with competitive remuneration.
+
+# Insights Deep Dive
+### Retention rate per Clusters
+The retention rates of each cluster can be found below. Based on the data in the graph, we can see that the employee clusters with the worst retention rates are the Early-career professionals and Veteran Professionals.
+
+![output](https://github.com/user-attachments/assets/a17a43ee-b652-4dc6-bbca-1643e990d95f)
+
+### Average MonthlyIncome per Employee Clustering
+The monthly income of early-career employees is well below that of the organisation's mean income value. Knowing that income is a strong indicator for attrition, it brings further understanding on why the early-career employees have the worst retention rate within the organisation. 
+
+
+
+
