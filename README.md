@@ -86,7 +86,12 @@ The retention rates of each cluster can be found below. Based on the data in the
 ![output](https://github.com/user-attachments/assets/a17a43ee-b652-4dc6-bbca-1643e990d95f)
 
 ### Average MonthlyIncome per Employee Clustering
-The monthly income of early-career employees is well below that of the organisation's mean income value. Knowing that income is a strong indicator for attrition, it brings further understanding on why the early-career employees have the worst retention rate within the organisation. 
+The monthly income of early-career employees is well below that of the organisation's mean income value. Knowing that income is a strong indicator for attrition, it brings further understanding on why early-career employees have the worst retention rate within the organisation. 
+
+![output](https://github.com/user-attachments/assets/cab0c2dc-d033-47e2-bd66-e911b80c14d8)
+
+### Total Attrition per Job Level
+Based on the barplot, we can see that job roles in job level 1 have the worst retention rate. This further reiterates the inference that early-career professionals are the group of employees most likely to churn. This can be seen with how all he job roles of the early-career professionals are level 1 and level 2 job levels. 
 
 
 
