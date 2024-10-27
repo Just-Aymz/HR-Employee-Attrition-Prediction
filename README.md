@@ -1,19 +1,31 @@
 # Project Background
 
-The goal of this project is to analyze and predict employee attrition using a fictional dataset created by IBM data scientists. This dataset contains various features that may influence employee turnover, such as job roles, monthly income, education, and distance from home. By conducting an exploratory data analysis (EDA), we aim to uncover key factors that contribute to attrition, including insights like job role distribution and how distance from home correlates with attrition.
+This project aims to analyze and predict employee attrition using a fictional dataset created by IBM data scientists. This dataset contains various features that may influence employee turnover, such as job roles, monthly income, education, and distance from home. By conducting exploratory data analysis (EDA), we aim to uncover key factors contributing to attrition, including insights like job role distribution and how distance from home correlates with attrition.
 
-After the data cleaning process, which involves handling missing values, outliers, and inconsistent data entries, we proceed with feature engineering and visualization to better understand the dataset. The ultimate objective is to build and evaluate a predictive model using classification algorithms to determine whether an employee is likely to leave the company. This can be leveraged by HR teams to create targeted retention strategies and improve employee satisfaction.
+After the data cleaning process, which involves handling missing values, outliers, and inconsistent data entries, we proceed with feature engineering and visualization to better understand the dataset. The ultimate objective is to build and evaluate a predictive model using classification algorithms to determine whether an employee is likely to leave the company. HR teams can leverage this to create targeted retention strategies and improve employee satisfaction.
 
-Insights and recommendations are provided on the following key areas:
-```
-* Insights on the impact of monthly income on attrition.
-* Insights on the effect of Age on the attrition of employees.
-* Insights on whether particular job roles increase likihood of attiriton by employees in those roles.
-* The impact of overtime and lack of a work-life balance has on the attrition rate of employees.
-* Recommendations on compensation structure
-* Targeted Retention Strategies for At-Risk Job Roles
-* Work-Life Balance Initiatives
-```
+# Key Insights
+* Top Influencers of Attrition:
+  1. Monthly Income
+  2. Age
+  3. Total Working Years
+  4. Years at Company
+  5. Overtime (Yes)
+
+* **Early-Career Professional Cluster**:
+  * Employees in this category, clustered by *MonthlyIncome*, *TotalWorkingYears*, and *YearsAtCompany*, exhibit the highest churn rates, with a retention rate of just **3:1**.
+
+* **Attrition and Age**:
+  * Younger employees, are most likely to leave, closely aligning with the early-career group averaging **31.14** years for **males** and **30.61** for **females**.
+
+* **Income Disparities**:
+  * **Early-career professionals** earn an average of **3459.08**, significantly below the **organisational average** of **6502.93**.
+
+* **Job Level and Retention**:
+  * Attrition is notably higher in entry-level roles. **Job Level 1** employees have a retention rate of **3:1**, with an **average income** of **2786.92**, while **Job Level 5** sees a retention rate of **13:1**, with **average earnings** of **19191.83**.
+
+* **Overtime and Attrition Impact**:
+  * Overtime work is consistent across clusters, with only **4.5%** rating their work-life balance **poorly**. This indicates that attrition is driven by a combination of factors, where financial compensation alongside overtime plays a significant role.
 
 The Jupyter Notebook used to inspect and clean the data for this analysis can be found here [link]().
 
@@ -63,3 +75,6 @@ The datacard describiing this dataset can be found at [Kaggle](https://www.kaggl
 | YearsWithCurrManager | Integer | The total number of years spent with their current manager. |
 
 # Executive Summary
+The analysis identifies key drivers of employee attrition, with compensation, career stage, and job level emerging as critical factors. Early-career professionals and entry-level employees show the highest churn rates, driven by lower earnings and limited progression opportunities. Notably, younger employees, especially those in early-career clusters, exhibit a strong tendency toward attrition, with those aged around 30 earning well below the organisational average.
+
+Additionally, while overtime rates are consistent across clusters, their impact on attrition varies based on financial compensation, underscoring the importance of aligning work-life balance initiatives with competitive remuneration.
