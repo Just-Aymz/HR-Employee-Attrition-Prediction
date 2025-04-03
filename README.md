@@ -77,7 +77,7 @@ The analysis identifies key drivers of employee attrition, with compensation, ca
 
 Additionally, while overtime rates are consistent across clusters, their impact on attrition varies based on financial compensation, underscoring the importance of aligning work-life balance initiatives with competitive remuneration.
 
-An overview of this information can be found in the [PowerBi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzk1YjI0NTUtMTFjZi00MzRhLThkOGMtOGZkMDFiMGU1OWQxIiwidCI6IjVjMjAwZWZhLTZiZDAtNDVkZi05ZDMxLTg3MTgxZjY0NzhiYyJ9&embedImagePlaceholder=true]
+An overview of this information can be found in the [PowerBi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzk1YjI0NTUtMTFjZi00MzRhLThkOGMtOGZkMDFiMGU1OWQxIiwidCI6IjVjMjAwZWZhLTZiZDAtNDVkZi05ZDMxLTg3MTgxZjY0NzhiYyJ9&embedImagePlaceholder=true])
 
 # Insights Deep Dive
 ### Retention rate per Clusters
